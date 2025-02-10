@@ -4,7 +4,8 @@ import BsDegree from './education/BsDegree.vue'
 <template>
   <div class="section-divider">
     <hr class="divider-line" />
-    <i class="fa-solid fa-toolbox divider-icon"></i><span class="divider-icon"> EDUCATION </span>
+    <i class="fa-solid fa-graduation-cap divider-icon"></i
+    ><span class="divider-icon"> EDUCATION </span>
     <hr class="divider-line" />
   </div>
   <div class="education-grid">

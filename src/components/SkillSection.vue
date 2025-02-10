@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import ToolingIcon from './icons/IconTooling.vue'
 import LeadershipSkill from './skills/LeadershipSkill.vue'
 import MentoringSkill from './skills/MentoringSkill.vue'
 import TeamBuildingSkill from './skills/TeamBuildingSkill.vue'
@@ -11,7 +10,8 @@ import SecuritySkill from './skills/SecuritySkill.vue'
 <template>
   <div class="section-divider">
     <hr class="divider-line" />
-    <i class="fa-solid fa-toolbox divider-icon"></i><span class="divider-icon">SKILLS</span>
+
+    <i class="fa-solid fa-tools divider-icon"></i><span class="divider-icon">SKILLS</span>
     <hr class="divider-line" />
   </div>
 

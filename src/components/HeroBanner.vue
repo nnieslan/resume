@@ -13,10 +13,10 @@
         <br />
         <i class="fas fa-map"></i><span>&nbsp;</span>Denver, CO
         <br />
-        <i class="fa-solid fa-face-smile"></i><span>&nbsp;</span
+        <i class="fa-solid fa-mobile"></i><span>&nbsp;</span
         ><a href="tel:1-720-939-9808">720-939-9808</a>
         <br />
-        <i class="fas fa-envelope"></i><span>&nbsp;</span>
+        <i class="fas fa-inbox"></i><span>&nbsp;</span>
         <a href="mailto:nicknieslanik@gmail.com">nicknieslanik@gmail.com</a>
       </p>
     </div>

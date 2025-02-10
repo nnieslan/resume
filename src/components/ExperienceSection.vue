@@ -12,7 +12,8 @@ import MicrosoftFRxJob from './jobs/MicrosoftFRxJob.vue'
 <template>
   <div class="section-divider">
     <hr class="divider-line" />
-    <i class="fa-solid fa-toolbox divider-icon"></i><span class="divider-icon">EXPERIENCE</span>
+    <i class="fa-solid fa-laptop-house divider-icon"></i
+    ><span class="divider-icon">EXPERIENCE</span>
     <hr class="divider-line" />
   </div>
   <div class="jobs-grid">
