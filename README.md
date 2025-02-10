@@ -1,8 +1,8 @@
-# Nick Nieslanik Resume
+# Nick Nieslanik Resume | Built on Vue.js
 
-## Built on Vue.js
+I built a new version of my resume on Vue.js. Vue is super lightweight and easy to use, making it really fast and easy to stand up a static site like this one.
 
-This template should help get you started developing with Vue 3 in Vite.
+Steps below this are from the common Vue setup template and are accurate.
 
 ## Recommended IDE Setup
 
