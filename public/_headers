@@ -1,2 +1,1 @@
-/ Content-Security-Policy: default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com;
-/ Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-eval' https://kit.fontawesome.com https://nick.nieslanik.me;
+/ Content-Security-Policy: default-src 'self'; img-src 'self' data:; script-src 'self' 'unsafe-eval' https://kit.fontawesome.com https://nick.nieslanik.me; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com;
