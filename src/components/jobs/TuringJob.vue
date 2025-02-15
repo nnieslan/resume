@@ -2,7 +2,7 @@
 import JobItem from './JobItem.vue'
 </script>
 <template>
-  <JobItem title="TURING MEDICAL" subtitle="FRACTIONAL CTO / ADVISOR" date="Nov 2023 - Feb 2024">
+  <JobItem title="TURING MEDICAL" subtitle="FRACTIONAL CTO / ADVISOR" date="Nov 2023 - Feb 2025">
     <template #icon>
       <img src="@/assets/logos/turing-logo.png" alt="Turing Medical logo" />
     </template>
